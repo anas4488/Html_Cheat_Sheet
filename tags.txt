@@ -1,0 +1,9 @@
+HTML Tags : 
+
+html tag <html></html>
+body tag <body></body>
+head tag <head></head>
+title tag <title></title>
+headings tag <h1></h1><h2,3,4,5,6></h2,3,4,5,6>
+paragraph tag <p></p>
+strong tag <strong></strong>
