@@ -1,5 +1,5 @@
 # Html_Cheat_Sheet
 
-> HTML practice repository.
+> HTML practice Repository.
 
 > News **tags** added.
