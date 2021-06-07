@@ -2,4 +2,4 @@
 
 > HTML practice repository.
 
-> news tags added.
+> News **tags** added.
